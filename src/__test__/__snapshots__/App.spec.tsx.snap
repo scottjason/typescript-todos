@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App matches snapshot 1`] = `
+<body>
+  <div>
+    <ul>
+      <li>
+        <label>
+          <input
+            data-testid="Walk the dog"
+            readonly=""
+            type="checkbox"
+          />
+          Walk the dog
+        </label>
+      </li>
+      <li>
+        <label
+          style="text-decoration: line-through;"
+        >
+          <input
+            checked=""
+            data-testid="Build app"
+            readonly=""
+            type="checkbox"
+          />
+          Build app
+        </label>
+      </li>
+    </ul>
+  </div>
+</body>
+`;
